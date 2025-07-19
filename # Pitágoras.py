@@ -1,4 +1,4 @@
-Pitágoras
+# Pitágoras
 
 from math import hypot
 
